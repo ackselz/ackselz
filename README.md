@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋, I'm Shao Chong
+
+## “It is not a bug — it is an undocumented feature.”
+
+- 👯 I’m looking to contribute to open source projects to gain more developer experience!
+
+- :information_desk_person: You can check out my personal website at [**https://shaochong.dev/**](https://shaochong.dev/)
+
+- 📫 You can reach me at [**tanshaochong48@gmail.com**](tanshaochong48@gmail.com)
 
 <!--
 **ackselz/ackselz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

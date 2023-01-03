@@ -1,6 +1,14 @@
-### Hi 👋, I'm Shao Chong
+# Hi 👋, I'm Shao Chong
 
 ## “It is not a bug — it is an undocumented feature.”
+
+## 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+</p>
 
 - 👯 I’m looking to contribute to open source projects to gain more developer experience!
 
